@@ -1,0 +1,12 @@
+{
+  "name": "video-3",
+  "version": "1.0.0",
+  "description": "in this video we learn about \r  : how files or ms module  are work in javascript",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
