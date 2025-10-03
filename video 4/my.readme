@@ -1,0 +1,17 @@
+in this video we read about the express.js
+
+express.js web devlopment krne ke liye node.js ki madad se ek framework he 
+
+we can build production level web applications using express.js
+
+
+{
+note :: if we want to get the update pages on changing the code we have to run a command 
+which is npm i -global nodemon 
+    }
+
+
+::: what is request and parameters 
+
+we have to use slug function for making unlimited variables in the URL
+
